@@ -1,1 +1,5 @@
 System.out.println("Learning Git is awsome"); 
+System.out.println("Git add command will add the new file into staging area");
+System.out.println("Git commit command is add the changes to our local version control DB");
+System.out.println("Git push command will push the changes to remote server Github");
+System.out.println("Happy learning");
